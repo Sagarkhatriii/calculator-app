@@ -49,3 +49,4 @@ Percentage is a postfix divide-by-100 operation, so `100 + 10%` means `100 + 0.1
 - Scientific notation input and memory keys
 - Theme preference
 - End-to-end browser automation
+
